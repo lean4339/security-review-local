@@ -1,3 +1,5 @@
+> **Duplicado archivado.** Este paquete se mantiene en [Security_review_skill](https://github.com/lean4339/Security_review_skill/tree/main/security-review). Sus fuentes y variantes quedaron integradas allí.
+
 # Security Review · Local & Marketplace
 
 **Revisar cambios concretos, construir pruebas útiles y aprender de la evidencia.**

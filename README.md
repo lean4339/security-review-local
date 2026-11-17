@@ -1,3 +1,5 @@
+> **Archived duplicate.** This package is maintained in [Security_review_skill](https://github.com/lean4339/Security_review_skill/tree/main/security-review). Its sources and editions have been consolidated there.
+
 # Security Review · Local & Marketplace
 
 **Review concrete code changes, build meaningful tests and learn from the evidence.**
